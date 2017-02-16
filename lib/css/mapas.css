@@ -1,0 +1,38 @@
+@charset="UTF-8";
+
+div#map {
+    height: 600px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, .5);
+}
+
+div#map h1 {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+div#map span.info {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.legend {
+	padding: 6px 10px 6px 6px;
+	color: #333;
+	background: #fff;
+    border-radius: 5px;
+}
+
+i.legend-icon {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+    border-radius: 10px;
+}
+
+div.leaflet-control-layers {
+    bottom: 35px;
+}

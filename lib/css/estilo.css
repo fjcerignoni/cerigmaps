@@ -1,0 +1,102 @@
+@charset="UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+
+/* GERAL-------------------------------------*/
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: darkseagreen;
+}
+
+p {
+    text-align:justify;
+	font-family:Arial, sans-serif;
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+}
+
+.facebook a {
+    color: #fff;
+}
+
+.googleplus a {
+    color: #fff;
+}
+
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+
+/*--------------------------------------------*/
+/*MENU----------------------------------------*/
+
+.cerigmaps-logo {
+    font-family: 'Rock Salt', cursive;
+    color: forestgreen;
+    font-size: 25px;
+    font-weight: bold;
+    text-shadow: 0px 0px 5px rgba(0, 0, 0, .5);
+    margin-top: 0px;
+}
+
+/*-------------------------------------------*/
+/*CORPO--------------------------------------*/
+
+div#interface {
+    width: 100%;
+    max-width: 900px;
+    min-height: inherit;
+    margin: 15px auto 10px auto;
+    padding: 15px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, .5);
+    background-color: #ffffff;
+}
+
+div#noticias {
+    margin: auto;
+    padding: 10x;
+}
+
+div.principal {
+    margin-right: 35px;
+    margin-left: 15px;
+}
+
+/*-------------------------------------------*/
+/*RODAPE-------------------------------------*/
+
+footer#rodape {
+    text-align: center;
+    display: block;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, .5);
+    background-color: #ffffff;
+}
+
+footer#rodape p {
+    text-align: center;
+    font-size: 15px;
+    margin: 0px;
+}
+
+.facebook {
+    display: inline-block;
+    margin: auto auto 1px auto;
+    padding: 3px;
+    background-color: #3b5998
+}
+
+.googleplus {
+    display: inline-block;
+    margin: auto;
+    padding: 3px;
+    background-color: #d34836;
+}
+/*--------------------------------------------*/

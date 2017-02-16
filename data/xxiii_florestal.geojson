@@ -1,0 +1,586 @@
+var xxiii_florestal = {
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "19",
+                "NOME": "Laís",
+                "APELIDO": "Mancha",
+                "TURMA": "XXIII",
+                "SITUACAO": "Estágio",
+                "CARGO": "Setor Ambiental",
+                "EMPRESA": "Grupo Pedra Industrial",
+                "ENDERECO": "Rua Mario Cunha Junior, n 869",
+                "CIDADE": "Sertãozinho",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(16)981559792",
+                "TEL_COM": null,
+                "EMAIL_PES": "lais.menezes1@gmail.com",
+                "EMAIL_COM": null,
+                "sit": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-48.0130112, -21.133978]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "1",
+                "NOME": "Felipe José Cerignoni",
+                "APELIDO": "Porra Rala Loca",
+                "TURMA": "XXIII",
+                "SITUACAO": "Estágio",
+                "CARGO": "Geoprocessamento",
+                "EMPRESA": "IMAFLORA",
+                "ENDERECO": "Estr. Chicó Mendes, 185",
+                "CIDADE": "Piracicaba",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(19) 982217839",
+                "TEL_COM": "(19) 34290864",
+                "EMAIL_PES": "fcerignoni@gmail.com",
+                "EMAIL_COM": "felipe@imaflora.org",
+                "sit": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.6048109, -22.7334296]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "2",
+                "NOME": "Alysson",
+                "APELIDO": "Rojão",
+                "TURMA": "XXI",
+                "SITUACAO": "Trabalhando",
+                "CARGO": "Consultoria Florestal",
+                "EMPRESA": "Kurukerê Consultoria Projetos e Prestação de Serviços Ambientais",
+                "ENDERECO": "Rua Afonso Pena 325",
+                "CIDADE": "Promissão",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(14) 991211607",
+                "TEL_COM": null,
+                "EMAIL_PES": "alysson-09@hotmail.com",
+                "EMAIL_COM": "kurukere@ig.com.br",
+                "sit": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-49.8557726, -21.5423593]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "3",
+                "NOME": "Jonathan",
+                "APELIDO": "Superstição",
+                "TURMA": "XXIII",
+                "SITUACAO": "Trabalhando",
+                "CARGO": "Trainne",
+                "EMPRESA": "Innovatech Negócios Florestais",
+                "ENDERECO": "Dr. José Bonifácio C. Nogueira, 214, Sala 239",
+                "CIDADE": "Campinas",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(14) 981092870",
+                "TEL_COM": "(19) 33243019",
+                "EMAIL_PES": "toledo.florestal@gmail.com",
+                "EMAIL_COM": "jtoledo@innovatech.com.br",
+                "sit": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.024126515919363, -22.865565169075488]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "4",
+                "NOME": "Gustavo Cardoso Fernandes",
+                "APELIDO": "Kajobs",
+                "TURMA": "XXIII",
+                "SITUACAO": "Trabalhando",
+                "CARGO": "Gestão de Arborização Urbana e Programa Município Verde Azul",
+                "EMPRESA": "SeMAE Ambiental",
+                "ENDERECO": "Rua dos Padres Cruz, n°3",
+                "CIDADE": "Cajobi",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(17) 991125767",
+                "TEL_COM": "(17) 3563-1292",
+                "EMAIL_PES": "gustavo_carfer@hotmail.com",
+                "EMAIL_COM": "meioambiente.cajobi@gmail.com",
+                "sit": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-48.8041737, -20.8780817]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "5",
+                "NOME": "Gabriela Trindade",
+                "APELIDO": "Tobago",
+                "TURMA": "XXIII",
+                "SITUACAO": "Trabalhando",
+                "CARGO": "Analista de Operações Florestais",
+                "EMPRESA": "CMPC celulose riograndense",
+                "ENDERECO": "Rua Manoel das Neves, 644",
+                "CIDADE": "Guaíba",
+                "ESTADO": "Rio Grande do Sul",
+                "PAIS": "Brasil",
+                "TEL_PES": "(11) 982558133",
+                "TEL_COM": "(51) 95940676",
+                "EMAIL_PES": "gabriela_tpires@hotmail.com",
+                "EMAIL_COM": "gtpires@cmpcrs.com.br",
+                "sit": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-51.3218396, -30.1360762]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "6",
+                "NOME": "Talitha Casella Moreira de Freitas",
+                "APELIDO": "Coca",
+                "TURMA": "XXII",
+                "SITUACAO": "Trabalhando",
+                "CARGO": "Assistente de projeto FSC\/Cerflor",
+                "EMPRESA": "Essência Florestal",
+                "ENDERECO": "Avenida MacArthur, 828 - Jaguaré - São Paulo",
+                "CIDADE": "São Paulo",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(11) 953880805",
+                "TEL_COM": "(11) 37147736",
+                "EMAIL_PES": "talitha.casella@gmail.com",
+                "EMAIL_COM": "talitha.casella@gmail.com",
+                "sit": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.7492204, -23.5510012]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "7",
+                "NOME": "Luísa Pereira Marques",
+                "APELIDO": "Graúna",
+                "TURMA": "XXIII",
+                "SITUACAO": "Trabalhando",
+                "CARGO": "Consultora",
+                "EMPRESA": "Autônoma",
+                "ENDERECO": "Zona rural",
+                "CIDADE": "Ulianópolis",
+                "ESTADO": "Pará",
+                "PAIS": "Brasil",
+                "TEL_PES": "(14) 996675644",
+                "TEL_COM": null,
+                "EMAIL_PES": "lpmarques.florestal@gmail.com",
+                "EMAIL_COM": null,
+                "sit": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.5020079, -3.7706249]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "8",
+                "NOME": "Gabriel Farias Fabricio",
+                "APELIDO": "Dalua",
+                "TURMA": "XXIII",
+                "SITUACAO": "Estudando",
+                "CARGO": null,
+                "EMPRESA": null,
+                "ENDERECO": "R, antonio ferrucio mori, 268, jd paraíso",
+                "CIDADE": "Botucatu",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(14) 33541139",
+                "TEL_COM": null,
+                "EMAIL_PES": "efgfarias@gmail.com",
+                "EMAIL_COM": null,
+                "sit": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-48.4377144, -22.8571114]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "9",
+                "NOME": "Roberta de Carvalho Dionizio",
+                "APELIDO": "Bucuva",
+                "TURMA": "XXIII",
+                "SITUACAO": "Desempregado",
+                "CARGO": null,
+                "EMPRESA": null,
+                "ENDERECO": "Estrada José Celeste, 1167",
+                "CIDADE": "Sorocaba",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(15) 981463839",
+                "TEL_COM": null,
+                "EMAIL_PES": "engflorestal.roberta@gmail.com",
+                "EMAIL_COM": null,
+                "sit": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.4219133, -23.5234259]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "10",
+                "NOME": "Thiago Bertholdo Akabane",
+                "APELIDO": "Kina",
+                "TURMA": "XXIII",
+                "SITUACAO": "Estudando",
+                "CARGO": "Graduação Engenharia Florestal",
+                "EMPRESA": "Unesp botucatu",
+                "ENDERECO": "Rua Úrsula Camargo de Barros, número 641, Jardim Paraíso",
+                "CIDADE": "Botucatu",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(11) 9 9480-7572",
+                "TEL_COM": null,
+                "EMAIL_PES": "thiagoakabane@hotmail.com",
+                "EMAIL_COM": null,
+                "sit": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-48.4428542, -22.8612192]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "11",
+                "NOME": "Rodrigo Pereira da Silva",
+                "APELIDO": "Jesus Negão",
+                "TURMA": "XXIII",
+                "SITUACAO": "Estudando",
+                "CARGO": "Intercâmbio\/University of Idaho-EUA",
+                "EMPRESA": "NASA - NASA DEVELOP National Program - Estágio por 10 semanas",
+                "ENDERECO": "1080 West 6th Street",
+                "CIDADE": "Moscow",
+                "ESTADO": "Idaho",
+                "PAIS": "United States",
+                "TEL_PES": "5097688862",
+                "TEL_COM": null,
+                "EMAIL_PES": "rodrigoflorestal23@gmail.com",
+                "EMAIL_COM": "pere8631@vandals.uidaho.edu",
+                "sit": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-117.020795, 46.7298339]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "12",
+                "NOME": "César Vincensi Gabbi Tavares",
+                "APELIDO": "Pedra",
+                "TURMA": "XXIII",
+                "SITUACAO": "Trabalhando",
+                "CARGO": "Gestor",
+                "EMPRESA": "Sela",
+                "ENDERECO": "Rua Joaquim Antônio Piza de Almeida, 35",
+                "CIDADE": "Piracicaba",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(19) 982664664",
+                "TEL_COM": "(19) 34217481",
+                "EMAIL_PES": "cesarxq@gmail.com",
+                "EMAIL_COM": "sela@globo.com",
+                "sit": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.6604273, -22.7163356]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "13",
+                "NOME": "Camila Porfirio Albuquerque",
+                "APELIDO": "La Cuca",
+                "TURMA": "XXIII",
+                "SITUACAO": "Trabalhando",
+                "CARGO": "Trainee Florestal",
+                "EMPRESA": "Innovatech Negócios Florestais",
+                "ENDERECO": "Av. José Bonifácio Coutinho Nogueira, 214",
+                "CIDADE": "Campinas",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(14) 981185958",
+                "TEL_COM": "(19) 99749 3076",
+                "EMAIL_PES": "albuquerque.florestal@gmail.com",
+                "EMAIL_COM": "calbuquerque@innovatech.com.br",
+                "sit": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.024108, -22.8657699]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "14",
+                "NOME": "Rafael",
+                "APELIDO": "Alf",
+                "TURMA": "XXIII",
+                "SITUACAO": "Estudando",
+                "CARGO": "Intercâmbio",
+                "EMPRESA": "Universidade Politécnica de Madrid",
+                "ENDERECO": "Calle de Beatriz de Bobadilla, 11, 2A, 28040",
+                "CIDADE": "Madrid",
+                "ESTADO": "Comunidad Autonoma de Madrid",
+                "PAIS": "Espanha",
+                "TEL_PES": "34634888018",
+                "TEL_COM": null,
+                "EMAIL_PES": "bentivenha@gmail.com",
+                "EMAIL_COM": "r.bbentivenha@alumnos.upm.es",
+                "sit": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-3.7156, 40.44822]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "15",
+                "NOME": "Gabriel Moraes Gasparoto",
+                "APELIDO": "Jabá carne seca",
+                "TURMA": "XXIII",
+                "SITUACAO": "Estudando",
+                "CARGO": "Residencia em Recursos Naturais",
+                "EMPRESA": "UNESP \/ FCA",
+                "ENDERECO": "Rua José Barbosa de Barros, 1780",
+                "CIDADE": "Botucatu",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(11) 999973798",
+                "TEL_COM": "(14) 3880 7107",
+                "EMAIL_PES": "gabrielmgasparoto@gmail.com",
+                "EMAIL_COM": "gmgasparoto@fca.unesp.br",
+                "sit": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-48.434714, -22.8585211]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "16",
+                "NOME": "Felipe de Souza Nogueira Tagliarini",
+                "APELIDO": "Tenso",
+                "TURMA": "XXIII",
+                "SITUACAO": "Estudando",
+                "CARGO": "Mestrado (Agronomia - Energia na Agricultura)",
+                "EMPRESA": null,
+                "ENDERECO": "Rua: Amando de Barros, nº 1720",
+                "CIDADE": "Botucatu",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(14) 997582966",
+                "TEL_COM": null,
+                "EMAIL_PES": "felipe_tagliarini@hotmail.com",
+                "EMAIL_COM": "felipe_tagliarini@hotmail.com",
+                "sit": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-48.4413963, -22.8949242]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "17",
+                "NOME": "Giulia Denaro",
+                "APELIDO": "Wanderley",
+                "TURMA": "XXIII",
+                "SITUACAO": "Estudando",
+                "CARGO": "estudante",
+                "EMPRESA": "UNESP",
+                "ENDERECO": "Brooklin",
+                "CIDADE": "São Paulo",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(14) 998034560",
+                "TEL_COM": null,
+                "EMAIL_PES": "giuliadenaro7@gmail.com",
+                "EMAIL_COM": null,
+                "sit": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.6958899, -23.6087646]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "18",
+                "NOME": "Rodrigo",
+                "APELIDO": "Dismaio",
+                "TURMA": "XXIII",
+                "SITUACAO": "Estudando",
+                "CARGO": null,
+                "EMPRESA": null,
+                "ENDERECO": "521 W. Lanikaula St.",
+                "CIDADE": "Hilo",
+                "ESTADO": "Hawaii",
+                "PAIS": "United States",
+                "TEL_PES": null,
+                "TEL_COM": null,
+                "EMAIL_PES": "rodrigo.argentin@hotmail.com",
+                "EMAIL_COM": null,
+                "sit": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-155.081935, 19.701547]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "20",
+                "NOME": "Felipe Pardi",
+                "APELIDO": "Fixtaile",
+                "TURMA": "XXIII",
+                "SITUACAO": "Estágio",
+                "CARGO": "Meio Ambiente",
+                "EMPRESA": "Raízen",
+                "ENDERECO": "Rua Cezira Giovanoni Moretti, 900 - Santa Rosa Ipes",
+                "CIDADE": "Piracicaba",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(11) 993210777",
+                "TEL_COM": null,
+                "EMAIL_PES": "ffpardi@hotmail.com",
+                "EMAIL_COM": null,
+                "sit": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.6226539, -22.6945208]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "21",
+                "NOME": "Danila",
+                "APELIDO": "Iracema",
+                "TURMA": "XXIII",
+                "SITUACAO": "Trabalhando",
+                "CARGO": "Consultoria ambiental",
+                "EMPRESA": "Montiel Consultoria Ambiental",
+                "ENDERECO": "Rua Rangel Pestana, 639 Centro Botucatu",
+                "CIDADE": "Botucatu",
+                "ESTADO": "SP",
+                "PAIS": "Brasil",
+                "TEL_PES": "14-997591779",
+                "TEL_COM": null,
+                "EMAIL_PES": "fideles.danila@gmail.com",
+                "EMAIL_COM": null,
+                "sit": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-48.4391875, -22.8916284]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "22",
+                "NOME": "Eric Gomes de Sousa",
+                "APELIDO": "Bazzinga",
+                "TURMA": "XXIII",
+                "SITUACAO": "Estudando",
+                "CARGO": null,
+                "EMPRESA": null,
+                "ENDERECO": "Rua Mário Guimarães, 394",
+                "CIDADE": "Botucatu",
+                "ESTADO": "São Paulo",
+                "PAIS": "Brasil",
+                "TEL_PES": "(19) 991937377",
+                "TEL_COM": null,
+                "EMAIL_PES": "eric.gomes0105@gmail.com",
+                "EMAIL_COM": null,
+                "sit": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-48.4560384, -22.8656282]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "COD": "23",
+                "NOME": "Mônica Moreno Gabira",
+                "APELIDO": "Hipopó",
+                "TURMA": "XXIII",
+                "SITUACAO": "Estágio",
+                "CARGO": "Propagação de espécies florestais",
+                "EMPRESA": "Embrapa Florestas",
+                "ENDERECO": "Estrada da Ribeira, 111",
+                "CIDADE": "Curitiba",
+                "ESTADO": "Paraná",
+                "PAIS": "Brasil",
+                "TEL_PES": "014 99829 6454",
+                "TEL_COM": null,
+                "EMAIL_PES": "monica.gabira@gmail.com",
+                "EMAIL_COM": null,
+                "sit": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-49.159638600644797, -25.321774184984505]
+            }
+        }
+]
+}

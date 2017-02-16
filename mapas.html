@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <title>CerigMaps - Mapas</title>
+
+    <!-- JQUERY -->
+    <script src="lib/js/jquery-3.1.1.min.js"></script>
+    <!-- -->
+
+    <!-- BOOTSTRAP -->
+    <link rel="stylesheet" href="lib/css/bootstrap.css">
+    <link rel="stylesheet" href="lib/css/bootstrap-theme.css">
+    <script src="lib/js/bootstrap.js"></script>
+    <!-- -->
+
+    <!-- FONT AWESOME -->
+    <link rel="stylesheet" href="lib/css/font-awesome.css">
+    <!-- -->
+
+    <link rel="stylesheet" href="lib/css/estilo.css">
+    <script src="lib/js/scripts.js"></script>
+
+</head>
+
+<body>
+    <div id="interface" class="container-fluid">
+
+        <header>
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu" aria-expanded="false"> <span class="sr-only">Alternar Navegação</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html"><span class="cerigmaps-logo">Cerigmaps</span></a> </div>
+                    <div id="menu" class="collapse navbar-collapse" >
+                        <ol class="nav navbar-nav">
+                            <li ><a href="index.html">Home</a>
+                            <li class="active"><a href="mapas.html">Mapas</a></li>
+                            <li><a href="sobre.html">Sobre</a></li>
+                        </ol>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+            <ol class="breadcrumb">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="mapas.html">Mapas</a></li>
+            </ol>
+
+			<!-- AREA DO MAPA-->
+            <div id="map" class="container-fluid"></div>
+            <!-- -->
+
+        <footer id="rodape">
+            <p>Copyright <i class="fa fa-copyright"></i> - Felipe Cerignoni - 2016</p>
+            <div class="facebook"><a href="https://www.facebook.com/felipe.cerignoni" target="_blank"><i class="fa fa-facebook"></i>acebook</a></div>
+            <div class="googleplus"><a href="https://plus.google.com/u/0/103952105434548738323" target="_blank"><i class="fa fa-google-plus"></i>oogle</a></div>
+        </footer>
+
+    </div> <!--/interface-->
+</body>
+
+<!-- LEAFLET -->
+
+<script src="data/xxiii_florestal.geojson"></script>
+
+<link rel="stylesheet" href="lib/leaflet/leaflet.css">
+<link rel="stylesheet" href="lib/css/mapas.css">
+<script src="lib/leaflet/leaflet.js"></script>
+<script src="lib/js/Control.FullScreen.js"></script>
+<link rel="stylesheet" href="lib/css/Control.FullScreen.css">
+
+<script src="lib/js/map.js"></script>
+
+<!-- -->
+
+</html>
