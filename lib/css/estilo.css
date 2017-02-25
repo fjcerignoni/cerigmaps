@@ -69,6 +69,35 @@ div.principal {
 }
 
 /*-------------------------------------------*/
+/*LOGIN--------------------------------------*/
+
+div.jumbotron {
+    max-width: 450px;
+    margin: 5px auto 20px auto;
+    
+}
+
+div#login {
+    padding: 5px 50px 15px 30px;    
+}
+
+div#login ul {
+    list-style-type: none;
+    display: block;
+    float: left;
+    margin-left: 0px;
+}
+
+div#login button {
+    display: block;
+    float: right;
+}
+
+div#login p {
+    font-size: 12px;
+}
+
+/*-------------------------------------------*/
 /*RODAPE-------------------------------------*/
 
 footer#rodape {
